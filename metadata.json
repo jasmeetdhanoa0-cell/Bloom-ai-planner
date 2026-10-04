@@ -1,0 +1,6 @@
+{
+  "name": "BLOOM — Cute AI Planner & Focus Companion",
+  "description": "Plan • Focus • Grow. Aesthetic, AI-powered personal planner designed for students, work, creators, and cozy daily productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
